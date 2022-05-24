@@ -1,1 +1,3 @@
 Zdravejte =)
+
+Hello, Albena I am testing some git commands, suhc as clone,  push, add, commit and etc. 
